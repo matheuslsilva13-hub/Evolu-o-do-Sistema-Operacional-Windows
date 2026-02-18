@@ -1,6 +1,6 @@
 # 🪟 Evolução do Sistema Operacional Windows
 
-Repositório destinado à pesquisa histórica das versões do Microsoft Windows, realizado para a disciplina de [Nome da Disciplina].
+Repositório destinado à pesquisa histórica das versões do Microsoft Windows, realizado para a disciplina de [Desenvolvimento de sistemas].
 
 ## 📜 Linha do Tempo
 
@@ -21,4 +21,4 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 | **Windows 11**  | 2021 | Menu Iniciar centralizado e suporte a apps Android. | É a primeira versão que exige obrigatoriamente o chip de segurança TPM 2.0. | imagem:
 
 ---
-Desenvolvido por [Seu Nome] - 2026.
+Desenvolvido por [Matheus Luka] - 2026.
