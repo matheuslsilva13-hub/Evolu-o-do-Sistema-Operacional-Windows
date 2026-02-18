@@ -4,9 +4,9 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 
 ## 📜 Linha do Tempo
 
-| Versão | Ano | Principal Novidade | Curiosidade |
+| Versão | Ano | Principal Novidade | Curiosidade | Imagem |
 | :--- | :---: | :--- | :--- |
-| **Windows 1.0** | 1985 | Interface gráfica sobre o MS-DOS. | O nome original do projeto era "Interface Manager". | <img<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/84afef58-8737-4d16-84dd-c8146eca94cd" /> |
+| **Windows 1.0** | 1985 | Interface gráfica sobre o MS-DOS. | O nome original do projeto era "Interface Manager". | https://olhardigital.com.br/2020/11/20/noticias/anos-de-evolucao-conheca-a-historia-do-windows/ |
 | **Windows 2.0** | 1987 | janelas sobrepostas, minimização/maximização e ícones na área de trabalho | Introduziu um gerenciamento de teclado mais sofisticado, incluindo os primórdios do famoso Alt+Tab | 
 | **Windows 3.x** | 1990 | Gerenciador de Programas e suporte a 256 cores. | Foi a versão que popularizou o jogo *Paciência* para ensinar o uso do mouse. | 
 | **Windows 95**  | 1995 | Menu Iniciar e Barra de Tarefas. | A Microsoft pagou milhões para usar a música "Start Me Up" dos Rolling Stones no comercial. | 
