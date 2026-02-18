@@ -6,7 +6,7 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 
 | Versão | Ano | Principal Novidade | Curiosidade |
 | :--- | :---: | :--- | :--- |
-| **Windows 1.0** | 1985 | Interface gráfica sobre o MS-DOS. | O nome original do projeto era "Interface Manager". | ![20140410161702](https://github.com/user-attachments/assets/eb699320-ce39-4823-88f7-f0edd91c641f)
+| **Windows 1.0** | 1985 | Interface gráfica sobre o MS-DOS. | O nome original do projeto era "Interface Manager". | ![20140410161702](https://github.com/user-attachments/assets/eb699320-ce39-4823-88f7-f0edd91c641f) |
 
 | **Windows 2.0** | 1987 | janelas sobrepostas, minimização/maximização e ícones na área de trabalho | Introduziu um gerenciamento de teclado mais sofisticado, incluindo os primórdios do famoso Alt+Tab | 
 | **Windows 3.x** | 1990 | Gerenciador de Programas e suporte a 256 cores. | Foi a versão que popularizou o jogo *Paciência* para ensinar o uso do mouse. | 
